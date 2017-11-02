@@ -1,4 +1,5 @@
 # vuelianxi
+看vue文档写的练习
 
 > 2.0
 
